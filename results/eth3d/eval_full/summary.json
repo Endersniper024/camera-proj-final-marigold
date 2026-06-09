@@ -1,0 +1,27 @@
+{
+  "model": "marigold_depth_v1_1",
+  "dataset": "eth3d_depth_full",
+  "image_count": 454,
+  "protocol": "denoise_steps=1, ensemble_size=10, processing_res=756, resample=bilinear, alignment=least_square, alignment_max_res=1024",
+  "metrics": {
+    "abs_relative_difference": 0.0693307,
+    "squared_relative_difference": 0.1361229,
+    "rmse_linear": 0.661922,
+    "rmse_log": 0.096179,
+    "log10": 0.0284427,
+    "delta1_acc": 0.9566567,
+    "delta2_acc": 0.9892962,
+    "delta3_acc": 0.9946073,
+    "i_rmse": 16.1876809,
+    "silog_rmse": 9.5197837
+  },
+  "paper_reference": {
+    "abs_relative_difference": 0.065,
+    "delta1_acc": 0.96,
+    "note": "Marigold paper Table 1 (v1-0, 50 steps)"
+  },
+  "extra_files": [
+    "eval_metrics-least_square.txt",
+    "per_sample_metrics.csv"
+  ]
+}

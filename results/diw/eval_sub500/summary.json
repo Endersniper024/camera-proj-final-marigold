@@ -1,0 +1,6 @@
+{
+  "model": "marigold_depth_v1_1",
+  "subset": "500 random DIW test pairs (shuffle_seed=0)",
+  "whdr": 0.144,
+  "note": "sanity subset; full result in diw/eval_full (WHDR 0.1318)"
+}

@@ -1,0 +1,3 @@
+checkpoint=prs-eth/marigold-depth-v1-1 steps=1 ens=1 res=768
+evaluated=500 missing=0 correct=428
+WHDR=0.144000 (14.40%)

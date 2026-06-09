@@ -1,0 +1,8 @@
+{
+  "source_dir": "marigold-other",
+  "style": "marigold-recolor",
+  "colormap": "Spectral_r",
+  "visualization": "near_bright_far_dark",
+  "normalize": "per-image 2-98 pct",
+  "written": 19
+}

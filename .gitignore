@@ -1,0 +1,19 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+Thumbs.db
+
+# Large datasets / model caches should not be committed.
+*.tar
+*.tar.gz
+*.zip
+*.npy
+hf_cache/
+checkpoints/
+weights/
+
+# Local scratch outputs.
+_tmp*/
+*.log

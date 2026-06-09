@@ -1,0 +1,9 @@
+torch==2.8.0
+torchvision==0.23.0
+diffusers==0.32.2
+transformers==4.46.3
+accelerate
+matplotlib
+scipy
+huggingface_hub==0.25.2
+tabulate

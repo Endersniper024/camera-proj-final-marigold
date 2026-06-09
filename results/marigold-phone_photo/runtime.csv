@@ -1,0 +1,14 @@
+index,image,width,height,depth_min,depth_max,checkpoint,denoise_steps,ensemble_size,processing_res,npy_dtype,elapsed_ms,output_png,output_npy
+1,IMG_0124,3024,4032,-9e-05,0.999996,prs-eth/marigold-depth-v1-1,1,10,native(768)->upsampled_to_original,float32,,marigold-phone_photo/IMG_0124.png,marigold-phone_photo/IMG_0124.npy
+2,IMG_0591,3024,4032,-0.028486,0.999993,prs-eth/marigold-depth-v1-1,1,10,native(768)->upsampled_to_original,float32,,marigold-phone_photo/IMG_0591.png,marigold-phone_photo/IMG_0591.npy
+3,IMG_0838,3024,4032,-0.001209,1.018556,prs-eth/marigold-depth-v1-1,1,10,native(768)->upsampled_to_original,float32,,marigold-phone_photo/IMG_0838.png,marigold-phone_photo/IMG_0838.npy
+4,IMG_2358,4032,3024,-0.000135,1.000378,prs-eth/marigold-depth-v1-1,1,10,native(768)->upsampled_to_original,float32,,marigold-phone_photo/IMG_2358.png,marigold-phone_photo/IMG_2358.npy
+5,IMG_2366,4032,3024,-0.00259,1.000007,prs-eth/marigold-depth-v1-1,1,10,native(768)->upsampled_to_original,float32,,marigold-phone_photo/IMG_2366.png,marigold-phone_photo/IMG_2366.npy
+6,IMG_2367,3024,4032,-0.009923,0.999996,prs-eth/marigold-depth-v1-1,1,10,native(768)->upsampled_to_original,float32,,marigold-phone_photo/IMG_2367.png,marigold-phone_photo/IMG_2367.npy
+7,IMG_0138,4032,3024,-0.073377,1.028882,prs-eth/marigold-depth-v1-1,1,10,native(768)->upsampled_to_original,float32,,marigold-phone_photo/IMG_0138.png,marigold-phone_photo/IMG_0138.npy
+8,IMG_1471,4032,3024,2.1e-05,0.99988,prs-eth/marigold-depth-v1-1,1,10,native(768)->upsampled_to_original,float32,,marigold-phone_photo/IMG_1471.png,marigold-phone_photo/IMG_1471.npy
+9,IMG_2369,4284,5712,-0.000182,0.999988,prs-eth/marigold-depth-v1-1,1,10,native(768)->upsampled_to_original,float32,,marigold-phone_photo/IMG_2369.png,marigold-phone_photo/IMG_2369.npy
+10,IMG_2370,3024,4032,-0.001585,1.000068,prs-eth/marigold-depth-v1-1,1,10,native(768)->upsampled_to_original,float32,,marigold-phone_photo/IMG_2370.png,marigold-phone_photo/IMG_2370.npy
+11,IMG_0734,3024,4032,-0.000302,0.999992,prs-eth/marigold-depth-v1-1,1,10,native(768)->upsampled_to_original,float32,,marigold-phone_photo/IMG_0734.png,marigold-phone_photo/IMG_0734.npy
+12,IMG_0810,3024,4032,1.9e-05,0.999989,prs-eth/marigold-depth-v1-1,1,10,native(768)->upsampled_to_original,float32,,marigold-phone_photo/IMG_0810.png,marigold-phone_photo/IMG_0810.npy
+13,IMG_1555,5712,4284,-0.013613,0.999995,prs-eth/marigold-depth-v1-1,1,10,native(768)->upsampled_to_original,float32,,marigold-phone_photo/IMG_1555.png,marigold-phone_photo/IMG_1555.npy

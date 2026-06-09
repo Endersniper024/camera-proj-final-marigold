@@ -1,0 +1,25 @@
+{
+  "model": "marigold_depth_v1_1",
+  "dataset": "nyu_depth_v2_test",
+  "protocol": "denoise_steps=1, ensemble_size=10, processing_res=0, least_square",
+  "image_count": 654,
+  "min_depth": 0.001,
+  "max_depth": 10.0,
+  "metrics": {
+    "abs_relative_difference": 0.0579759538364497,
+    "squared_relative_difference": 0.02463331215570621,
+    "rmse_linear": 0.22790181289629197,
+    "rmse_log": 0.08406388490754166,
+    "log10": 0.02475750906996725,
+    "delta1_acc": 0.9610476497253146,
+    "delta2_acc": 0.9909464713265772,
+    "delta3_acc": 0.9976536102980285,
+    "i_rmse": 0.045962857219906075,
+    "silog_rmse": 8.366429498436254
+  },
+  "extra_files": [
+    "ablation_summary.csv (steps/ensemble sweep)",
+    "lcm_summary.csv (LCM checkpoint compare)",
+    "nyu_v1_1_per_sample.csv"
+  ]
+}

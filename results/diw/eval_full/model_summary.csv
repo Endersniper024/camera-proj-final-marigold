@@ -1,0 +1,2 @@
+model,outdir,selected_direction,total_pairs,correct,ties,accuracy,whdr,non_tie_accuracy,mean_relative_margin,runtime_image_count,runtime_mean_ms,runtime_median_ms,runtime_p95_ms,runtime_min_ms,runtime_max_ms
+marigold_depth_v1_1,output/diw/eval_full,larger_farther,74441,64633,0,0.8682,0.1318,0.8682,,73983,123.0,,,,

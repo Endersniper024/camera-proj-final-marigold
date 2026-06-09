@@ -1,0 +1,21 @@
+﻿file,category,difficulty,phenomenon,has_whdr_pairs,orig_w,orig_h,prep,notes
+IMG_0124.jpg,01_indoor_museum_glass,normal,glass_case_lowtexture,no,3024,4032,01__IMG_0124.png,博物馆玻璃展柜内北大校徽，低纹理灰布
+IMG_0591.jpg,01_indoor_museum_glass,normal,glass_case,no,3024,4032,01__IMG_0591.png,博物馆展柜内金色盆景文物
+IMG_0838.jpg,01_indoor_museum_glass,normal,glass_case_reflection,no,3024,4032,01__IMG_0838.png,博物馆玻璃柜内玉琮，含玻璃反光
+IMG_2358.jpg,02_outdoor_street,normal,street,no,4032,3024,02__IMG_2358.png,空旷十字路口，蓝天
+IMG_2366.jpg,02_outdoor_street,normal,street,no,4032,3024,02__IMG_2366.png,带红绿灯的街道，行道树
+IMG_2367.jpg,02_outdoor_street,normal,street_people_shadow,no,3024,4032,02__IMG_2367.png,校园道路，行人/自行车，强阴影
+IMG_0138.jpg,03_outdoor_water_landscape,normal,water_dusk,no,4032,3024,03__IMG_0138.png,湖边成排绿船，垂柳，黄昏
+IMG_1471.jpg,03_outdoor_water_landscape,normal,water_garden,no,4032,3024,03__IMG_1471.png,古典园林亭台+荷塘+远山，蓝天
+IMG_2369.jpg,03_outdoor_water_landscape,normal,water_landmark,no,4284,5712,03__IMG_2369.png,未名湖+博雅塔+石舫
+IMG_2370.jpg,03_outdoor_water_landscape,hard,water+forced_perspective,no,3024,4032,03__IMG_2370.png,同未名湖场景，前景手做强迫透视伸向博雅塔
+IMG_0734.jpg,04_large_depth_aerial,hard,aerial_sky,no,3024,4032,04__IMG_0734.png,飞机舷窗外机翼与云层，超大纵深+天空
+IMG_0810.jpg,04_large_depth_aerial,normal,cityscape_haze,no,3024,4032,04__IMG_0810.png,太平山俯瞰香港天际线，阴天有霾
+IMG_1555.jpg,05_lowlight_night,hard,night_snow,no,5712,4284,05__IMG_1555.png,夜间雪后校园，行人，行道树
+web001.jpg,06_reflective_refractive,hard,mirror+perspective,yes,1350,1800,06__web001.png,室内房间，墙上两面镜子/窗，棋盘地板强透视
+web003.jpg,06_reflective_refractive,hard,refraction+dof,yes,6000,4000,06__web003.png,城堡前石墙上的玻璃水晶球，折射+背景虚化
+web007.jpg,06_reflective_refractive,hard,convex_mirror,yes,2000,3000,06__web007.png,树篱中的橙色凸面交通镜
+web002.jpg,07_forced_perspective_illusion,hard,forced_perspective,yes,3264,2448,07__web002.png,玻利维亚盐湖，人站在水瓶上的强迫透视；含透明瓶
+web005.jpg,07_forced_perspective_illusion,hard,forced_perspective,yes,3039,2014,07__web005.png,手'捏'埃菲尔铁塔的强迫透视，HDR 天空
+web004.jpg,08_synthetic_illusion,hard,synthetic_shadow_illusion,yes,1078,838,08__web004.png,Adelson 棋盘阴影错觉（合成渲染），本征/反照率相关
+web006.jpg,08_synthetic_illusion,hard,moire+glass,yes,4328,3632,08__web006.png,公园里玻璃后的莫尔条纹光栅板，混叠纹理

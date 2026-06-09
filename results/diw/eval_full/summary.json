@@ -1,0 +1,24 @@
+{
+  "annotation": "DIW_Annotations/DIW_test.csv",
+  "images_root": "diw/DIW_test",
+  "sample_radius": 0,
+  "tie_threshold": 0.0,
+  "models": [
+    {
+      "model": "marigold_depth_v1_1",
+      "outdir": "output/diw/eval_full",
+      "selected_direction": "larger_farther",
+      "total_pairs": 74441,
+      "correct": 64633,
+      "ties": 0,
+      "accuracy": "0.8682",
+      "whdr": "0.1318",
+      "non_tie_accuracy": "0.8682",
+      "denoise_steps": 1,
+      "ensemble_size": 1,
+      "processing_res": 768,
+      "runtime_image_count": 73983,
+      "runtime_mean_ms": 123.0
+    }
+  ]
+}

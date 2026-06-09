@@ -1,0 +1,8 @@
+index,image,width,height,depth_min,depth_max,checkpoint,denoise_steps,ensemble_size,processing_res,npy_dtype,elapsed_ms,output_png,output_npy
+1,web001,1350,1800,-0.009638,1.000133,prs-eth/marigold-depth-v1-1,1,10,native(768)->upsampled_to_original,float32,,marigold-web/web001.png,marigold-web/web001.npy
+2,web003,6000,4000,-0.000153,1.000023,prs-eth/marigold-depth-v1-1,1,10,native(768)->upsampled_to_original,float32,,marigold-web/web003.png,marigold-web/web003.npy
+3,web007,2000,3000,-0.001684,0.998964,prs-eth/marigold-depth-v1-1,1,10,native(768)->upsampled_to_original,float32,,marigold-web/web007.png,marigold-web/web007.npy
+4,web002,3264,2448,-0.001738,1.013919,prs-eth/marigold-depth-v1-1,1,10,native(768)->upsampled_to_original,float32,,marigold-web/web002.png,marigold-web/web002.npy
+5,web005,3039,2014,-0.000349,0.99997,prs-eth/marigold-depth-v1-1,1,10,native(768)->upsampled_to_original,float32,,marigold-web/web005.png,marigold-web/web005.npy
+6,web004,1078,838,0.0,0.99919,prs-eth/marigold-depth-v1-1,1,10,native(768)->upsampled_to_original,float32,,marigold-web/web004.png,marigold-web/web004.npy
+7,web006,4328,3632,-0.056436,1.002065,prs-eth/marigold-depth-v1-1,1,10,native(768)->upsampled_to_original,float32,,marigold-web/web006.png,marigold-web/web006.npy

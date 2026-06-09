@@ -1,6 +1,6 @@
 # Camera Final Assignment - Marigold Reproduction
 
-This repository-style folder contains the code and evidence used for the final report section on Marigold depth estimation reproduction.
+This repository contains the code and evidence used for the final report section on Marigold depth estimation reproduction.
 
 ## Structure
 
